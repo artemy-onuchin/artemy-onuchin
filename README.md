@@ -1,3 +1,5 @@
+![](https://media-exp1.licdn.com/dms/image/C4E16AQEpol1Gok0pjg/profile-displaybackgroundimage-shrink_350_1400/0/1604038282686?e=1675296000&v=beta&t=F6ad-PxJzZD9XpFrIlOPpWinCGQ4YXCX0bgH8uzFae4)
+
 # Hi 👋, I'm Artemy Onuchin
 
 I'm a Senior Markup Developer/Middle Frontend developer based in sunny Cyprus. At this moment i don't open for job offer, but if you have a good opportunity work in Austria/Germany i open to discuss.
@@ -6,6 +8,9 @@ I'm a Senior Markup Developer/Middle Frontend developer based in sunny Cyprus. A
 📫 We'll be in touch **artemonuchin [at] gmaill [dot] com**
 <br>
 <p><img src="https://komarev.com/ghpvc/?username=artemy-onuchin" alt="artemy-onuchin" /></p>
+
+## Egegesh
+I am proud to work on such a project as [EgeGesh](https://egegesh.ru/). This website is Live broadcast from the ski resort. The project is based on React, Redux, Express, Axios and with our desire to make a quality product demanded by the visitors of the resort. The project was completely developed by our team and I am proud that I had a hand in the creation of this service and in the design of some pages and as well as to improve the project.
 
 ## My tech stack
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artemy-onuchin&show_icons=true&locale=en&layout=compact" alt="artemy-onuchin" />
@@ -43,20 +48,40 @@ I'm a Senior Markup Developer/Middle Frontend developer based in sunny Cyprus. A
 <a><img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm" title="webstorm" width="40" height="40"/></a>
 <a><img src="https://git-fork.com/images/logo.png" alt="git fork" title="git fork" width="40" height="40"/></a>
 
-
-
 ### Services
 <a><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/></a>
 <a><img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" alt="gitlab" title="gitlab" width="40" height="40"/></a>
 <a><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jira" title="jira" width="40" height="40"/></a>
-
-
 
 ### Have experience
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="40" height="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40" height="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="40" height="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/></a>
+
+<br>
+
+## Work experience
+
+- Senior Markup Developer in [BrainRocket](https://www.brainrocket.com/) from july 2022 untill now  
+
+  > Angular 13
+
+- Middle Frontend Developer in [TransTeleCom](https://www.brainrocket.com/) fromt september 2019 to july 2022  
+  
+  > React, Vanilla JS
+
+- Fullstack developer in Freelance from october 2014 to september 2019  
+  
+  > php (1C-Bitrix/WordPress), Vanilla JS
+  
+- HTML developer in [Yca web](https://www.ycaweb.ru/) from february 2013 to september 2014
+  > php (1C-Bitrix), html/css/js
+  
+- HTML developer in [BizArt](http://biz-art.ru/) from november 2011 to january 2013
+  > php (Joomla), html/css/js
+  
+- Web designer in [Sobis Web](https://sobisweb.ru/) from august 2010 to october 2011
 
 <br>
 <br>
@@ -67,6 +92,16 @@ I'm a Senior Markup Developer/Middle Frontend developer based in sunny Cyprus. A
 <a href="https://www.youtube.com/c/youtube.com/@jokerovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@jokerovich" height="30" width="40" /></a>
 
 <br>
+
+## Other
+
+#### Languages
+
+Russian – native  
+English – B1  
+Spanish – A1  
+
+I do not smoke. Not married. Have a driving license issued by the Republic of Cyprus
 <br>
 
 ### Do you like a coffe? I do!
