@@ -5,7 +5,7 @@
 I'm a Senior Markup Developer/Middle Frontend developer based in sunny Cyprus. At this moment i don't open for job offer, but if you have a good opportunity work in Austria/Germany i open to discuss.
 <br>
 <br>
-📫 We'll be in touch **artemonuchin [at] gmaill [dot] com**
+📫 We'll be in touch **artemonuchin [at] gmail [dot] com**
 <br>
 <p><img src="https://komarev.com/ghpvc/?username=artemy-onuchin" alt="artemy-onuchin" /></p>
 
@@ -67,7 +67,7 @@ I am proud to work on such a project as [EgeGesh](https://egegesh.ru/). This web
 
   > Angular 13
 
-- Middle Frontend Developer in [TransTeleCom](https://www.brainrocket.com/) fromt september 2019 to july 2022  
+- Middle Frontend Developer in [TransTeleCom](https://www.zsttk.ru/) fromt september 2019 to july 2022   
   
   > React, Vanilla JS
 
